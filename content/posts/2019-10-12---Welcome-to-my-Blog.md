@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome, Willkommen, Fáilte 
 date: "2019-12-10"
 template: "post"
 draft: false
@@ -7,14 +7,36 @@ slug: "/posts/welcome-to-my-blog/"
 category: "Welcome"
 tags:
   - "Welcome"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+description: "My very first article on my very first blog"
 socialImage: "/media/image-2.jpg"
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+I recently set a goal for myself to start a blog, so here it is! No doubt you have questions, I’ll try to answer them all below.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+## Why the name, 'Testing Scoops'?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+So I got christened Scoops at Agile Testing Days conference in 2017. If I recall correctly it came from being awesome at playing The Great Dalmuti and not ending up scooping all the time.. *cough*
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+## Sounds cool, when can we expect the first (proper) article and what will it be about?
+
+My first post will be all about my recent experience Agile Testing Days 2019 in Potsdam. My first time attending as a speaker! Expect it very shortly, any minute now.. keep clicking that refresh button.. okay not that soon, maybe next week.
+
+## A goal, you say?
+
+Yes.. A personal goal. One of a few goals set out as part of a learning group.
+
+## A learning group, you say?
+
+More on that will follow in an upcoming article. That sounds a bit clickbaity.. We set up this learning group, **YOU’LL NEVER GUESS WHAT HAPPENED NEXT!**
+
+## What else can I expect to find here?
+
+I’ll try to keep it updated with my latest experiences from the world of testing. Any recent learnings and any cool testing tools or techniques I’ve tried. For example some ideas swirling around in my brain for upcoming articles include,
+* Bug bashing an API
+* Customizing a load testing tool
+* Observability tools
+* Some different ways of automating API tests
+
+## I don’t know how I’ve ended up here, and what testing is, Help, how do I escape!?
+
+There is no escape.

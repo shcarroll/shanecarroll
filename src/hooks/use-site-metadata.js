@@ -16,7 +16,6 @@ const useSiteMetadata = () => {
                 linkedin
                 github
                 twitter
-                telegram
                 instagram
                 email
                 rss
