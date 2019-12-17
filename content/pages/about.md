@@ -1,13 +1,18 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+title: 'About me'
+template: 'page'
+socialImage: '/media/grad.jpg'
 ---
+From Ireland, Tipperary to be precise, <a href="https://en.wikipedia.org/wiki/Roscrea">Roscrea</a> to be preciser (Don't worry if you've never heard of it before, not many people have)
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Graduated from University of Limerick many moons ago
+![grad.jpg](/media/grad.jpg)
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+Now living in Cork
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Been a tester for over 13 years in Finance, Insurance, Online Gaming, Cloud Platform and Software Development industries
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Previously worked/lived in Dublin, Hong Kong, London
+
+In my spare time I like to play football (Flabby Alonso - 2018 Douglas Astro League 6-a-side back to back champions, pictured below) I was a keen darts player but am now pretty much retired. I've been trying to teach myself the guitar for about a year now with mixed results.
+![foot1.jpg](/media/foot1.jpg)
