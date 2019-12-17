@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Shane Carroll',
+  title: 'Testing Scoops',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Shane Carroll',
-    photo: '/me1.jpg',
+    photo: '/me.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: 'shanecarroll84@gmail.com',
