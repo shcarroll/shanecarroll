@@ -1,47 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Testing Scoops]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 17 Dec 2019 10:52:21 GMT</lastBuildDate><item><title><![CDATA[Welcome to my blog]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>https://lumen.netlify.com/posts/welcome-to-my-blog/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/welcome-to-my-blog/</guid><pubDate>Tue, 10 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/0249a8579cfb4088acaf23fcac068444/98235/image-2.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCPOXmbM+hSK5BbqszP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAYDAQAAAAAAAAAAAAAAAAECEBESISJxof/aAAgBAQAGPwKbkNIVwVWWWr63/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFh8P/aAAgBAQABPyHduKW4HKoEp4zfE7OkG8yXCyU//9oADAMBAAIAAwAAABAAD//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QE7av/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxB3CT//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhQVFxYaH/2gAIAQEAAT8Q1tFIaHmY6qk11VGkZj6wwX+QQjfXfeygHuMAHzkVauVyruf/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/01472/image-2.webp 240w,
-/static/0249a8579cfb4088acaf23fcac068444/222bd/image-2.webp 480w,
-/static/0249a8579cfb4088acaf23fcac068444/620b9/image-2.webp 960w,
-/static/0249a8579cfb4088acaf23fcac068444/28063/image-2.webp 1440w,
-/static/0249a8579cfb4088acaf23fcac068444/44134/image-2.webp 1800w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/3bc27/image-2.jpg 240w,
-/static/0249a8579cfb4088acaf23fcac068444/98431/image-2.jpg 480w,
-/static/0249a8579cfb4088acaf23fcac068444/b3ee8/image-2.jpg 960w,
-/static/0249a8579cfb4088acaf23fcac068444/b97fe/image-2.jpg 1440w,
-/static/0249a8579cfb4088acaf23fcac068444/98235/image-2.jpg 1800w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/0249a8579cfb4088acaf23fcac068444/b3ee8/image-2.jpg&quot;
-          alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-          title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-          loading=&quot;lazy&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. &lt;/p&gt;
-&lt;p&gt;Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Testing Scoops]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 17 Dec 2019 15:22:59 GMT</lastBuildDate><item><title><![CDATA[Welcome, Willkommen, Fáilte]]></title><description><![CDATA[My very first article on my very first blog]]></description><link>https://lumen.netlify.com/posts/welcome-to-my-blog/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/welcome-to-my-blog/</guid><pubDate>Tue, 10 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I recently set a goal for myself to start a blog, so here it is! No doubt you have questions, I’ll try to answer them all below.&lt;/p&gt;
+&lt;h2 id=&quot;why-the-name-testing-scoops&quot;&gt;&lt;a href=&quot;#why-the-name-testing-scoops&quot; aria-label=&quot;why the name testing scoops permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Why the name, ‘Testing Scoops’?&lt;/h2&gt;
+&lt;p&gt;So I got christened Scoops at Agile Testing Days conference in 2017. If I recall correctly it came from being awesome at playing The Great Dalmuti and not ending up scooping all the time.. &lt;em&gt;cough&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;sounds-cool-when-can-we-expect-the-first-proper-article-and-what-will-it-be-about&quot;&gt;&lt;a href=&quot;#sounds-cool-when-can-we-expect-the-first-proper-article-and-what-will-it-be-about&quot; aria-label=&quot;sounds cool when can we expect the first proper article and what will it be about permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Sounds cool, when can we expect the first (proper) article and what will it be about?&lt;/h2&gt;
+&lt;p&gt;My first post will be all about my recent experience Agile Testing Days 2019 in Potsdam. My first time attending as a speaker! Expect it very shortly, any minute now.. keep clicking that refresh button.. okay not that soon, maybe next week.&lt;/p&gt;
+&lt;h2 id=&quot;a-goal-you-say&quot;&gt;&lt;a href=&quot;#a-goal-you-say&quot; aria-label=&quot;a goal you say permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;A goal, you say?&lt;/h2&gt;
+&lt;p&gt;Yes.. A personal goal. One of a few goals set out as part of a learning group.&lt;/p&gt;
+&lt;h2 id=&quot;a-learning-group-you-say&quot;&gt;&lt;a href=&quot;#a-learning-group-you-say&quot; aria-label=&quot;a learning group you say permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;A learning group, you say?&lt;/h2&gt;
+&lt;p&gt;More on that will follow in an upcoming article. That sounds a bit clickbaity.. We set up this learning group, &lt;strong&gt;YOU’LL NEVER GUESS WHAT HAPPENED NEXT!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-else-can-i-expect-to-find-here&quot;&gt;&lt;a href=&quot;#what-else-can-i-expect-to-find-here&quot; aria-label=&quot;what else can i expect to find here permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What else can I expect to find here?&lt;/h2&gt;
+&lt;p&gt;I’ll try to keep it updated with my latest experiences from the world of testing. Any recent learnings and any cool testing tools or techniques I’ve tried. For example some ideas swirling around in my brain for upcoming articles include,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bug bashing an API&lt;/li&gt;
+&lt;li&gt;Customizing a load testing tool&lt;/li&gt;
+&lt;li&gt;Observability tools&lt;/li&gt;
+&lt;li&gt;Some different ways of automating API tests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;i-dont-know-how-ive-ended-up-here-and-what-testing-is-help-how-do-i-escape&quot;&gt;&lt;a href=&quot;#i-dont-know-how-ive-ended-up-here-and-what-testing-is-help-how-do-i-escape&quot; aria-label=&quot;i dont know how ive ended up here and what testing is help how do i escape permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;I don’t know how I’ve ended up here, and what testing is, Help, how do I escape!?&lt;/h2&gt;
+&lt;p&gt;There is no escape.&lt;/p&gt;</content:encoded></item></channel></rss>
