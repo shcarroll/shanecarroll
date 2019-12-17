@@ -31,7 +31,6 @@ module.exports = {
     contacts: {
       email: 'shanecarroll84@gmail.com',
       facebook: 'shane.carroll1',
-      telegram: '#',
       twitter: 'ShaneCarroll84',
       github: 'shcarroll',
       rss: '',
