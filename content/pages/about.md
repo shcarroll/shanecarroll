@@ -13,6 +13,7 @@ Now living in Cork
 Been a tester for over 13 years in Finance, Insurance, Online Gaming, Cloud Platform and Software Development industries
 
 Previously worked/lived in Dublin, Hong Kong, London
+![hk1.jpg](/media/hk1.jpg)
 
-In my spare time I like to play football (Flabby Alonso - 2018 Douglas Astro League 6-a-side back to back champions, pictured below) I was a keen darts player but am now pretty much retired. I've been trying to teach myself the guitar for about a year now with mixed results.
+In my spare time I like to play football (Flabby Alonso - 2018 Douglas Astro League 6-a-side back to back champions, pictured below) I was a keen darts player but am now pretty much retired. I've been trying to learn the guitar for about a year now with mixed results. I have mastered Rudolf the red nosed reindeer just in time for christmas though.
 ![foot1.jpg](/media/foot1.jpg)
