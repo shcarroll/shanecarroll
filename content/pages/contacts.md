@@ -4,31 +4,17 @@ template: "page"
 socialImage: "/media/image-4.jpg"
 ---
 
-All media requests must be placed with my press officer Oscar.
+All media requests must be placed with Oscar, my press officer.
 
-![My press officer Oscar likes to watch TV in his spare time when he's not handling media requests.](/media/oscar1.jpg)
+![Oscar likes to watch TV in his spare time when he's not handling media requests.](/media/oscar1.jpg)
 
-He advises that if you wish to contact me you can use the below form. He also encourages you to get in touch with me via <a href="https://twitter.com/ShaneCarroll84">Twitter</a>
+He advises that if you wish to contact me you can use the form below. He also encourages you to get in touch with me via <a href="https://twitter.com/ShaneCarroll84">Twitter</a>
 
-<form method="post" action="#">
-  <label>
-    Name
-    <input type="text" name="name" id="name" />
-  </label>
-  <label>
-    Email
-    <input type="email" name="email" id="email" />
-  </label>
-  <label>
-    Subject
-    <input type="text" name="subject" id="subject" />
-  </label>
-  <label>
-    Message
-    <textarea name="message" id="message" rows="5" />
-  </label>
-  <button type="submit">Send</button>
-  <input type="reset" value="Clear" />
+<form action="https://getform.io/f/805e51b1-9024-4c38-839f-b87f151cf3c1" method="POST">
+    <input type="text" name="name">
+    <input type="email" name="email">
+    <input type="tel" name="tel">
+    <button type="submit">Send</button>
 </form>
 
 Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
