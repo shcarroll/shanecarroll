@@ -10,6 +10,27 @@ All media requests must be placed with my press officer Oscar.
 
 He advises that if you wish to contact me you can use the below form. He also encourages you to get in touch with me via <a href="https://twitter.com/ShaneCarroll84">Twitter</a>
 
+<form method="post" action="#">
+  <label>
+    Name
+    <input type="text" name="name" id="name" />
+  </label>
+  <label>
+    Email
+    <input type="email" name="email" id="email" />
+  </label>
+  <label>
+    Subject
+    <input type="text" name="subject" id="subject" />
+  </label>
+  <label>
+    Message
+    <textarea name="message" id="message" rows="5" />
+  </label>
+  <button type="submit">Send</button>
+  <input type="reset" value="Clear" />
+</form>
+
 Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)
