@@ -13,20 +13,17 @@ He advises that if you wish to contact me you can use the form below. He also en
 <form action="https://getform.io/f/805e51b1-9024-4c38-839f-b87f151cf3c1" method="POST">
   <label>
     Name
-    <input type="text" name="name" id="name" />
+    <input type="text" placeholder="Your Name" name="name" id="name" />
   </label>
   <label>
     Email
-    <input type="email" name="email" id="email" />
+    <input type="email" placeholder="yourname@email.com" name="email" id="email" />
   </label>
   <label>
     Subject
-    <input type="text" name="subject" id="subject" />
+    <input type="text" placeholder="Subject" name="subject" id="subject" />
   </label>
-  <label>
-    Message
-    <input type="text" name="message" id="message" />
-  </label>
+  <textarea name="message" />
   <button type="submit">Send</button>
   <input type="reset" value="Clear" />
 </form>
