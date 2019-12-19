@@ -23,6 +23,9 @@ He advises that if you wish to contact me you can use the form below. He also en
     Subject
     <input type="text" placeholder="Subject" name="subject" id="subject" />
   </label>
-  <textarea name="message" rows="5"/>
+  <label>
+    Message
+  <textarea name="message" id="message" rows="6" />
+  </label>
   <button>Send</button>
 </form>
