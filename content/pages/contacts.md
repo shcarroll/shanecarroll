@@ -25,7 +25,7 @@ He advises that if you wish to contact me you can use the form below. He also en
   </label>
   <label>
     Message
-    <textarea name="message" id="message" rows="6" />
+    <textarea name="message" />
   </label>
   <button>Send</button>
 </form>
