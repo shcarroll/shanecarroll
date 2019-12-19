@@ -23,7 +23,6 @@ He advises that if you wish to contact me you can use the form below. He also en
     Subject
     <input type="text" placeholder="Subject" name="subject" id="subject" />
   </label>
-  <textarea name="message" />
-  <button type="submit">Send</button>
-  <input type="reset" value="Clear" />
+  <textarea name="message" rows="5"/>
+  <button>Send</button>
 </form>
