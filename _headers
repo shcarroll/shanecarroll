@@ -82,6 +82,15 @@
   Link: </styles-61b2529e7e14aab23511.js>; rel=preload; as=script
   Link: </commons-29bcca49afefc4b0c701.js>; rel=preload; as=script
   Link: </component---src-templates-not-found-template-js-767a1200a496e658aea8.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-d7b84449fdcbb31c89a9.js>; rel=preload; as=script
+  Link: </styles-61b2529e7e14aab23511.js>; rel=preload; as=script
+  Link: </commons-29bcca49afefc4b0c701.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-219e20903f3995de28ef.js>; rel=preload; as=script
+  Link: </app-cf250af7f5a9f99e0291.js>; rel=preload; as=script
+  Link: </styles-61b2529e7e14aab23511.js>; rel=preload; as=script
+  Link: </commons-29bcca49afefc4b0c701.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-a4ac6ca7c1c0d354872f.js>; rel=preload; as=script
 /pages/about/
   Link: </webpack-runtime-d7b84449fdcbb31c89a9.js>; rel=preload; as=script
   Link: </styles-61b2529e7e14aab23511.js>; rel=preload; as=script
@@ -100,15 +109,6 @@
   Link: </styles-61b2529e7e14aab23511.js>; rel=preload; as=script
   Link: </commons-29bcca49afefc4b0c701.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-26ade0de4214eac42c4b.js>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-d7b84449fdcbb31c89a9.js>; rel=preload; as=script
-  Link: </styles-61b2529e7e14aab23511.js>; rel=preload; as=script
-  Link: </commons-29bcca49afefc4b0c701.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-219e20903f3995de28ef.js>; rel=preload; as=script
-  Link: </app-cf250af7f5a9f99e0291.js>; rel=preload; as=script
-  Link: </styles-61b2529e7e14aab23511.js>; rel=preload; as=script
-  Link: </commons-29bcca49afefc4b0c701.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-a4ac6ca7c1c0d354872f.js>; rel=preload; as=script
 /tag/welcome
   Link: </webpack-runtime-d7b84449fdcbb31c89a9.js>; rel=preload; as=script
   Link: </styles-61b2529e7e14aab23511.js>; rel=preload; as=script
