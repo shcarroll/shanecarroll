@@ -1,23 +1,23 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "Testing Scoops", // <title>
+  shortSiteTitle: "Testing Scoops", // <title> ending for posts and pages
+  siteDescription: "My latest experiences from the world of test",
+  siteUrl: "https://shanecarroll.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "shane carroll",
+  authorTwitterAccount: "shanecarroll84",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "shane carroll",
+  headerSubTitle: "Software Tester at Poppulo, Ireland. Newbie speaker.",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "Testing Scoops",
+  manifestShortName: "TestingScoops", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/shcarroll" },
+    { name: "twitter", url: "https://twitter.com/shanecarroll84" },
+    { name: "facebook", url: "http://facebook.com/shane.carroll1" }
   ]
 };
