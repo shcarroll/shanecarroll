@@ -1,7 +1,7 @@
 ---
 title: Welcome, Willkommen.. Fáilte
 category: "welcome"
-cover: ""
+cover: "me1.jpg"
 author: shane carroll
 ---
 
