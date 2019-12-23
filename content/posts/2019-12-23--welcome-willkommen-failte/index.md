@@ -5,6 +5,8 @@ cover: "aaron-burden-AvqpdLRjABs-unsplash.jpg"
 author: shane carroll
 ---
 
+![unsplash.com](./aaron-burden-AvqpdLRjABs-unsplash.jpg)
+
 I recently set a goal for myself to start a blog, so here it is! No doubt you have questions, I’ll try to answer them all below.
 
 ## Why the name 'Testing Scoops'?
