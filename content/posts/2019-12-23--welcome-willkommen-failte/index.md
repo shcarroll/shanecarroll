@@ -13,7 +13,7 @@ I recently set a goal for myself to start a blog, so here it is! No doubt you ha
 
 So I got christened Scoops at Agile Testing Days conference in 2017. If I recall correctly it came from being awesome at playing The Great Dalmuti and not ending up scooping all the time.. *cough*
 
-## Sounds cool, when can we expect the first (proper) article and what will it be about?
+## Sounds cool, when can we expect the first (proper) post and what will it be about?
 
 My first post will be all about my recent experience Agile Testing Days 2019 in Potsdam. My first time attending as a speaker! Expect it very shortly, any minute now.. keep clicking that refresh button.. okay not that soon, maybe next week.
 
