@@ -1,7 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Testing Scoops]]></title><description><![CDATA[My latest experiences from the world of test]]></description><link>https://shanecarroll.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 23 Dec 2019 16:42:19 GMT</lastBuildDate><item><title><![CDATA[Welcome, Willkommen.. Fáilte]]></title><description><![CDATA[I recently set a goal for myself to start a blog, so here it is! No doubt you have questions, I’ll try to answer them all below. Why the…]]></description><link>https://shanecarroll.com/welcome-willkommen-failte/</link><guid isPermaLink="false">https://shanecarroll.com/welcome-willkommen-failte/</guid><pubDate>Mon, 23 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I recently set a goal for myself to start a blog, so here it is! No doubt you have questions, I’ll try to answer them all below.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Testing Scoops]]></title><description><![CDATA[My latest experiences from the world of test]]></description><link>https://shanecarroll.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 23 Dec 2019 16:57:29 GMT</lastBuildDate><item><title><![CDATA[Welcome, Willkommen.. Fáilte]]></title><description><![CDATA[I recently set a goal for myself to start a blog, so here it is! No doubt you have questions, I’ll try to answer them all below. Why the…]]></description><link>https://shanecarroll.com/welcome-willkommen-failte/</link><guid isPermaLink="false">https://shanecarroll.com/welcome-willkommen-failte/</guid><pubDate>Mon, 23 Dec 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6548fbd28a0ecb5ef5fb559c4a33750c/4770c/aaron-burden-AvqpdLRjABs-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75.67567567567568%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABaiajG5zSD//EABwQAAICAgMAAAAAAAAAAAAAAAIDAAESExQhIv/aAAgBAQABBQJp3ivtHEKWfpIEyabn/8QAFhEBAQEAAAAAAAAAAAAAAAAAABJB/9oACAEDAQE/AdS//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAESQf/aAAgBAgEBPwHFpf/EAB0QAQABAwUAAAAAAAAAAAAAAAEAAhExAxIhkqH/2gAIAQEABj8C2gsdPm7MkuEarezD2n//xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMUEQkf/aAAgBAQABPyHcwM5IbMF1YxFdfNhUCcCDCK1x5f8A/9oADAMBAAIAAwAAABCjz//EABURAQEAAAAAAAAAAAAAAAAAABEA/9oACAEDAQE/EFgv/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EMCD/8QAHxABAAMAAAcBAAAAAAAAAAAAAQARITFhcZGhscHh/9oACAEBAAE/ENyxKGAX8lCCpLRw3NiF0uY/IS4KAsrtEblnTs6QpPE69z//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6548fbd28a0ecb5ef5fb559c4a33750c/f67cc/aaron-burden-AvqpdLRjABs-unsplash.jpg&quot;
+        srcset=&quot;/static/6548fbd28a0ecb5ef5fb559c4a33750c/9c38a/aaron-burden-AvqpdLRjABs-unsplash.jpg 200w,
+/static/6548fbd28a0ecb5ef5fb559c4a33750c/28275/aaron-burden-AvqpdLRjABs-unsplash.jpg 400w,
+/static/6548fbd28a0ecb5ef5fb559c4a33750c/f67cc/aaron-burden-AvqpdLRjABs-unsplash.jpg 800w,
+/static/6548fbd28a0ecb5ef5fb559c4a33750c/6e525/aaron-burden-AvqpdLRjABs-unsplash.jpg 1200w,
+/static/6548fbd28a0ecb5ef5fb559c4a33750c/e735c/aaron-burden-AvqpdLRjABs-unsplash.jpg 1600w,
+/static/6548fbd28a0ecb5ef5fb559c4a33750c/4770c/aaron-burden-AvqpdLRjABs-unsplash.jpg 4107w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I recently set a goal for myself to start a blog, so here it is! No doubt you have questions, I’ll try to answer them all below.&lt;/p&gt;
 &lt;h2&gt;Why the name ‘Testing Scoops’?&lt;/h2&gt;
 &lt;p&gt;So I got christened Scoops at Agile Testing Days conference in 2017. If I recall correctly it came from being awesome at playing The Great Dalmuti and not ending up scooping all the time.. &lt;em&gt;cough&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Sounds cool, when can we expect the first (proper) article and what will it be about?&lt;/h2&gt;
+&lt;h2&gt;Sounds cool, when can we expect the first (proper) post and what will it be about?&lt;/h2&gt;
 &lt;p&gt;My first post will be all about my recent experience Agile Testing Days 2019 in Potsdam. My first time attending as a speaker! Expect it very shortly, any minute now.. keep clicking that refresh button.. okay not that soon, maybe next week.&lt;/p&gt;
 &lt;h2&gt;A goal, you say?&lt;/h2&gt;
 &lt;p&gt;Yes.. A personal goal. One of a few goals set out as part of a learning group.&lt;/p&gt;
