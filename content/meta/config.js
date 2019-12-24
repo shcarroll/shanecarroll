@@ -3,7 +3,7 @@ module.exports = {
   shortSiteTitle: "Testing Scoops", // <title> ending for posts and pages
   siteDescription: "My latest experiences from the world of test",
   siteUrl: "https://shanecarroll.com",
-  // pathPrefix: "",
+  pathPrefix: "/",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
