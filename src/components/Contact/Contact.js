@@ -36,7 +36,6 @@ const Contact = props => {
   function sendMessage(values) {
     fetch("/", {
       method: "POST",
-      action: "https://getform.io/f/805e51b1-9024-4c38-839f-b87f151cf3c1",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", ...values })
     })
