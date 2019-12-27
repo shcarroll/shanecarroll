@@ -13,4 +13,4 @@ menuTitle: About Me
 
 + In my spare time I like to play football (Flabby Alonso - 2018 Douglas Astro League 6-a-side back to back champions, nothing to be sniffed at!)
 
-+ I'm also a keen darts player but am pretty much retired these days. I've been trying to learn the guitar for about a year now with mixed results.. I have mastered Rudolf the red nosed reindeer just in time for Christmas though.
++ I'm also a keen darts player but am pretty much retired these days. I've been trying to learn the guitar for about a year now with mixed results.. I did master Rudolf the Red Nosed Reindeer just in time for Christmas though.
