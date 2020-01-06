@@ -1,21 +1,24 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link } from "gatsby";
+import {Link} from "gatsby";
 
 const Item = props => {
-  const { theme, item: { label, to, icon: Icon } = {}, onClick } = props;
+  const {theme, item: {label, to, icon: Icon, href} = {}, onClick} = props;
 
   return (
     <React.Fragment>
       <li className={"hiddenItem" in props ? "hiddenItem" : "item"} key={label}>
-        <Link
-          to={to}
-          className={"hiddenItem" in props ? "inHiddenItem" : ""}
-          onClick={onClick}
-          data-slug={to}
-        >
-          {Icon && <Icon />} {label}
-        </Link>
+        {to && (
+          <Link
+            to={to}
+            className={"hiddenItem" in props ? "inHiddenItem" : ""}
+            onClick={onClick}
+            data-slug={to}
+          >
+            {Icon && <Icon />} {label}
+          </Link>
+        )}
+        {href && <a href={href}>{Icon && <Icon />}</a>}
       </li>
 
       {/* --- STYLES --- */}
