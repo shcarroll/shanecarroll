@@ -34,6 +34,7 @@ module.exports = {
   socialLinks: {
     github: "https://github.com/shcarroll",
     twitter: "https://twitter.com/shanecarroll84",
-    instagram: "http://instagram.com/shanemcarroll"
+    instagram: "http://instagram.com/shanemcarroll",
+    linkedin: "https://www.linkedin.com/in/shane-carroll-86b04b11/"
   }
 };

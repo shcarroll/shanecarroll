@@ -11,7 +11,7 @@ import { FaTwitter } from "react-icons/fa/";
 
 import Item from "./Item";
 import Expand from "./Expand";
-import {FaGithub, FaInstagram} from "react-icons/all";
+import {FaGithub, FaInstagram, FaLinkedin} from "react-icons/all";
 
 class Menu extends React.Component {
   constructor(props) {
@@ -33,6 +33,7 @@ class Menu extends React.Component {
       { to: "/contact/", label: "Contact", icon: FaEnvelope },
       { href: config.socialLinks.twitter, icon: FaTwitter },
       { href: config.socialLinks.instagram, icon: FaInstagram },
+      { href: config.socialLinks.linkedin, icon: FaLinkedin },
       { href: config.socialLinks.github, icon: FaGithub }
     ];
 
