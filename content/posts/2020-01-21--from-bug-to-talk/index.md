@@ -7,7 +7,7 @@ author: shane carroll
 
 ![On the Agile Testing Days stage](./atd-speaking-1.jpg)
 
-Agile Testing Days is without doubt my favourite conference each year. The 2019 edition was a massive one for me as although it was my third time attending it was my first one as a speaker, In fact it was my first time speaking at any conference.<br/>
+Agile Testing Days is without doubt my favourite conference each year. The 2019 edition was a massive one for me as although it was my third time attending it was my first time as a speaker. In fact it was my first time speaking at any conference.<br/>
 So how did this happen?
 
 ## _Let’s jump back in time for a moment to Agile Testing Days 2018_
@@ -24,14 +24,14 @@ As I say in one of my slides it all started with a bug! Shortly before this conf
 
 ## _This is beginning to sound like a good story right?_
 
-The company I work for, Poppulo host regular Show and Tells, Demos and Lightning Talks within the Engineering department. I gave a short presentation demonstrating some of the improvements we had made, and with that my first steps into public speaking had begun.
+The company I work for, Poppulo, hosts regular Show & Tells, Demos, and Lightning Talks within the Engineering department. I gave a short presentation demonstrating some of the improvements we had made, and with that my first steps into public speaking had begun.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/ShaneCarroll84?ref_src=twsrc%5Etfw">@ShaneCarroll84</a> talking about how the team are now using sentry to capture clientside exceptions which has added huge visibility into where issues are being introduced <a href="https://twitter.com/PoppuloTech?ref_src=twsrc%5Etfw">@PoppuloTech</a> <a href="https://t.co/kkZp3IQvvq">pic.twitter.com/kkZp3IQvvq</a></p>&mdash; Sponge Bob Test Pants (@RobMeaney) <a href="https://twitter.com/RobMeaney/status/1000013708314271746?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 
 ## _Where To Next?_
 
-Luckily for me Cork has an excellent ministry of testing <a href="https://www.meetup.com/Ministry-of-Testing-Cork/">meet-up</a>.
- Also _luckily_ for me they were looking for some new speakers at that time. _Luckily_ again I happen to work with the two co-founders of the meet-up - <a href="https://twitter.com/RobMeaney">Rob</a> and <a href="https://twitter.com/conorfi">Conor</a> who encouraged me to tell my story there.
+Luckily for me Cork has an excellent ministry of testing <a href="https://www.meetup.com/Ministry-of-Testing-Cork/">Meetup</a>.
+ Also _luckily_ for me they were looking for some new speakers at that time. _Luckily_ again I happen to work with the two co-founders of the Meetup - <a href="https://twitter.com/RobMeaney">Rob</a> and <a href="https://twitter.com/conorfi">Conor</a> who encouraged me to tell my story there.
 
 In hindsight, looking at how all these events happened together reminds me of Stephan Kämpers "Being Lucky" keynote from last years Agile Testing Days. I was helping myself to be luckier!
 
@@ -52,8 +52,8 @@ The timing of this coincided with the deadline of the call for papers for Agile 
 
 ## _Best Laid Plans_
 
-I was delighted with how the Ministry of Test meet-up went. I felt pretty nervous beforehand and starting off but it's a really friendly crowd there and a great venue to present for the first time at. The feedback was that I appeared calm when I was speaking so that was a relief as I didn't feel that way.<br/>
-Before-hand I had some practise runs with our test team and a transatlantic call with my American tester friends, Shout-out to <a href="https://twitter.com/Mondazzle87">Jen</a> and <a href="https://twitter.com/mandabakah">Amanda</a>!
+I was delighted with how the Ministry of Test Meetup went. I felt pretty nervous beforehand and starting off but it's a really friendly crowd there and a great venue to present for the first time at. The feedback was that I appeared calm when I was speaking so that was a relief as I didn't feel that way.<br/>
+Beforehand I had some practise runs with our test team and a transatlantic call with my American tester friends. Shoutout to <a href="https://twitter.com/Mondazzle87">Jen</a> and <a href="https://twitter.com/mandabakah">Amanda</a>!
 
 A few weeks later I got a huge shock. My submission was accepted for Agile Testing Days 2019, but not as a lightning talk, instead a full proper talk. **_This was not part of the plan!_**
 
@@ -116,7 +116,7 @@ Once I managed to get through the first few slides without freezing I actually l
 * Take notes, screenshots, photos when working on a problem or a new experience. This is not something you think of instinctively if you're in the middle of dealing with an issue but can make great aids for learning reviews or even future talks!
 * Submit! - Everyone has a story and it will be interesting to someone! Don't be put off by impostor syndrome or feeling like you're not 'expert' enough on the subject. There's a great sense of achievement after giving a talk
 * Prepare for the abstract as much as for the actual talk. Read and re-read what the conference are looking for in the submission. Get it reviewed from people who have submitted successfully before.
-* Practise and get as much feedback as possible beforehand. Use local meet-ups, work colleagues, anyone who might be prepared to listen and offer advice!
+* Practise and get as much feedback as possible beforehand. Use local meetups, work colleagues, anyone who might be prepared to listen and offer advice!
 * Remember just before speaking as Stephan said in his keynote - The audience wants you to succeed.
 
 ##_What Next.._
