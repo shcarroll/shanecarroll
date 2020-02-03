@@ -31,7 +31,7 @@ I then spent time getting the following items ready:
 * **Bug Location** - A shared drive and spreadsheet to log any issues found and accompanying screenshots or recordings.
 * **Slack Channel** - I set up a slack channel and added all the participants for easy communication during the bug bash.
 
-## Where to focus testing
+## Areas to focus on
 Usually if you’re testing a website or an app you get the participants to focus on different user flows or areas of the site. Even though in this case we were testing an API there were still lots of different areas for people or groups to focus on. For example:
 
 * **Performance**
@@ -40,7 +40,7 @@ Usually if you’re testing a website or an app you get the participants to focu
 * **API Documentation**
 * **Error codes and error messages returned**
 
-## Paired approach
+## Paired Testing
 
 ![Pairing up](./bug-bash-4.jpg)
 <small><i>A Bulgarian and a Mexican working together</i></small>
