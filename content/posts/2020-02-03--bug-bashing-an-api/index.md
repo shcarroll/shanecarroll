@@ -76,6 +76,6 @@ We caught some really nice issues. Our team had to investigate error codes and m
 * Don’t necessarily restrict people to testing a particular area to test. Initially I was going to assign pairs to different endpoints however it worked out much better that I didn’t do this. People naturally have different focuses and found different issues even while testing the same endpoints.
 * An important instruction to give everyone beforehand is not to spend much time trying to debug any issues found. Log it and move on, It's a time restricted session and we'll have plenty of time to examine the issues afterwards.
 * The discussion between teams during the debriefing session at the end was great. It did show though that we probably should have had this discussion earlier, especially when discussing expectations of the endpoints behaviour.
-* I forgot to procure a prize for the best bug and also snacks to munch on during the bug bash. I was sufficiently shamed and will rest assured I will never make this mistake again. :eyes:
+* I forgot to procure a prize for the best bug and also snacks to munch on during the bug bash. I was sufficiently shamed for this and rest assured I will never make this mistake again. :eyes:
 
 
