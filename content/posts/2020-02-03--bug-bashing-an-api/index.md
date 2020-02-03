@@ -58,7 +58,7 @@ During the bug bash I didn’t participate or get involved in running any tests 
 I kept an eye on the time and then allowed 20 minutes at the end to talk through the bugs logged and any other general feedback. This debriefing session is the crucial part really and allowed for some great discussion between the teams on how the endpoints should behave for different scenarios.
 
 ![During](./bug-bash-3.jpg)
-<small><i>Hard at it!</i></small>
+<small><i>Nice socks!</i></small>
 
 ## And afterwards..
 Once we were finished I spent time gathering all the bugs logged and converting them into Jira issues. We had our teams backlog refinement session the next day and we decided which of these we were going to tackle in the next sprint.
