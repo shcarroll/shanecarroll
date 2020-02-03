@@ -42,7 +42,8 @@ Usually if you’re testing a website or an app you get the participants to focu
 
 ## Paired approach
 
-![A Bulgarian and a Mexican work together](./bug-bash-4.jpg)
+![Pairing up](./bug-bash-4.jpg)
+<small><i>A Bulgarian and a Mexican working together</i></small>
 
 I decided to group the participants into pairs for this bug bash. There was a couple of reasons for this:
 <a href="https://twitter.com/gwendiagram">Gwen Diagram</a> had visited Poppulo a few weeks prior to this. She ran a workshop in the office ( Brilliantly titled ‘_**Never Eat Soggy Weetbix**_’ ) where we paired up and tested a mobile app. I thought this worked really well especially when people from different functions worked together. Eg. UI/UX, Site Reliability Engineers, Developers alongside testers.
@@ -57,6 +58,7 @@ During the bug bash I didn’t participate or get involved in running any tests 
 I kept an eye on the time and then allowed 20 minutes at the end to talk through the bugs logged and any other general feedback. This debriefing session is the crucial part really and allowed for some great discussion between the teams on how the endpoints should behave for different scenarios.
 
 ![During](./bug-bash-3.jpg)
+<small><i>Hard at it!</i></small>
 
 ## And afterwards..
 Once we were finished I spent time gathering all the bugs logged and converting them into Jira issues. We had our teams backlog refinement session the next day and we decided which of these we were going to tackle in the next sprint.
@@ -66,6 +68,7 @@ We caught some really nice issues. Our team had to investigate error codes and m
 ## What I Learned
 
 ![Full House](./bug-bash-2.jpg)
+<small><i>Busy bashing bugs</i></small>
 
 * Bug bashing an API does work! You don’t need a UI or customer facing feature to have a bug bash.
 * As you can see in the preparation section above there’s a lot to do. Make sure you give yourself plenty of time to get all this ready before you start.
