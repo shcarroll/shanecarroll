@@ -46,7 +46,7 @@ Usually if you’re testing a website or an app you get the participants to focu
 <small><i>A Bulgarian and a Mexican working together</i></small>
 
 I decided to group the participants into pairs for this bug bash. There was a couple of reasons for this:
-<a href="https://twitter.com/gwendiagram">Gwen Diagram</a> had visited Poppulo a few weeks prior to this. She ran a workshop in the office ( Brilliantly titled ‘_**Never Eat Soggy Weetbix**_’ ) where we paired up and tested a mobile app. I thought this worked really well especially when people from different functions worked together. Eg. UI/UX, Site Reliability Engineers, Developers alongside testers.
+<a href="https://twitter.com/gwendiagram">Gwen Diagram</a> had visited Poppulo a few weeks prior to this. She ran a workshop in the office ( Brilliantly titled ‘_**Never Eat Soggy Weetabix**_’ ) where we paired up and tested a mobile app. I thought this worked really well especially when people from different functions worked together. Eg. UI/UX, Site Reliability Engineers, Developers alongside testers.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/gwendiagram?ref_src=twsrc%5Etfw">@gwendiagram</a> kicking off her talk here in <a href="https://twitter.com/PoppuloSays?ref_src=twsrc%5Etfw">@PoppuloSays</a> about <a href="https://twitter.com/hashtag/testing?src=hash&amp;ref_src=twsrc%5Etfw">#testing</a>. Delighted to see almost the entire engineering department here 😀 <a href="https://t.co/Dn1FagmYdI">pic.twitter.com/Dn1FagmYdI</a></p>&mdash; Sponge Bob Test Pants (@RobMeaney) <a href="https://twitter.com/RobMeaney/status/1182613190594748417?ref_src=twsrc%5Etfw">October 11, 2019</a></blockquote>
 
