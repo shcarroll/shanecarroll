@@ -3,10 +3,6 @@
   "version": "2.0.0",
   "author": "Shane Carroll",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/shcarroll/shanecarroll.git"
-  },
   "dependencies": {
     "antd": "^3.26.8",
     "fontfaceobserver": "^2.0.13",
