@@ -100,7 +100,6 @@ module.exports = {
       options: {
         plugins: [
           `gatsby-plugin-sharp`,
-          `gatsby-remark-social-cards`,
           {
             resolve: `gatsby-remark-images`,
             options: {
